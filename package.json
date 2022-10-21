@@ -17,7 +17,7 @@
 		"animate-css-grid": "^1.4.3",
 		"animate.css": "^3.7.2",
 		"axios": "^0.19.2",
-		"chartist": "^0.11.4",
+		"chartist": "^0.10.1",
 		"classnames": "^2.2.6",
 		"clsx": "^1.1.0",
 		"date-fns": "^2.10.0",
@@ -31,7 +31,7 @@
 		"react": "^16.12.0",
 		"react-animate-on-scroll": "^2.1.5",
 		"react-animated-modal": "^1.1.1",
-		"react-chartist": "^0.14.2",
+		"react-chartist": "^0.14.4",
 		"react-countup": "^4.3.3",
 		"react-dom": "^16.12.0",
 		"react-facebook-login": "^3.7.2",
@@ -53,7 +53,7 @@
 	},
 	"scripts": {
 		"start": "react-scripts start",
-		"build": "react-scripts build --force",
+		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
 	},
